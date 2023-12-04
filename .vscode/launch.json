@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Akintan Ayomide/Desktop/test",
-      "program": "c:/Users/Akintan Ayomide/Desktop/test/build/Debug/outDebug",
+      "cwd": "d:/c_program/solveQuadraticEquation",
+      "program": "d:/c_program/solveQuadraticEquation/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
