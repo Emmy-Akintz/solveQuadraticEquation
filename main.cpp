@@ -19,7 +19,10 @@ int main()
     root1 = (-b + v) / (2 * a);
     root2 = (-b - v) / (2 * a);
 
-    cout << root1 << ", " << root2 << endl;;
+    cout << root1 << ", " << root2 << endl;
+    printf("%f", root1);
+    printf(", ");
+    printf("%f", root2);
 
     return 0;
 }
